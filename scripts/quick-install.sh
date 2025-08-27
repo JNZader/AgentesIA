@@ -5,7 +5,7 @@
 
 set -e
 
-REPO_URL="https://github.com/stretchcloud/claude-code-unified-agents"
+REPO_URL="https://github.com/jnzader/agentesia"
 TEMP_DIR="/tmp/claude-agents-install-$$"
 
 echo "🚀 Claude Code Unified Agents Quick Installer"

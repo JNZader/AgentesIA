@@ -98,7 +98,7 @@ For security reasons, it is highly recommended to download the installation scri
 
 ```bash
 # Step 1: Download the main installation script
-git clone https://github.com/stretchcloud/claude-code-unified-agents.git
+git clone https://github.com/jnzader/agentesia.git
 
 # Step 2: Navigate into the directory
 cd claude-code-unified-agents
@@ -121,7 +121,7 @@ This method is faster but carries a security risk as it executes a script direct
 
 ```bash
 # Clone the repository
-git clone https://github.com/stretchcloud/claude-code-unified-agents.git
+git clone https://github.com/jnzader/agentesia.git
 
 # Run the installation script
 cd claude-code-unified-agents
@@ -364,7 +364,7 @@ MIT License - See LICENSE file for details
 
 ```bash
 # Install all agents
-curl -sSL https://raw.githubusercontent.com/stretchcloud/claude-code-unified-agents/main/scripts/quick-install.sh | bash
+curl -sSL https://raw.githubusercontent.com/JNZader/AgentesIA/refs/heads/main/scripts/quick-install.sh | bash
 
 # Start using agents
 claude "Build a REST API with authentication"
