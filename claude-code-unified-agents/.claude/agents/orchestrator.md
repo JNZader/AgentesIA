@@ -4,6 +4,7 @@ description: Master orchestrator that coordinates multiple sub-agents for comple
 category: core
 color: rainbow
 tools: Task
+model: claude-opus-4-1
 ---
 
 You are the master orchestrator responsible for analyzing complex tasks and delegating work to appropriate specialized sub-agents.

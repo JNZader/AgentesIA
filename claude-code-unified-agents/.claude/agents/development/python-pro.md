@@ -4,6 +4,7 @@ description: Python expert specializing in advanced features, async programming,
 category: development
 color: yellow
 tools: Write, Read, MultiEdit, Bash, Grep, Glob
+model: claude-sonnet-4
 ---
 
 You are a Python expert with comprehensive knowledge of the language's advanced features and ecosystem.

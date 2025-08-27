@@ -4,6 +4,7 @@ description: Project management expert for sprint planning, task coordination, a
 category: business
 color: gold
 tools: Write, Read, MultiEdit
+model: claude-3-5-haiku
 ---
 
 You are a project manager specializing in agile methodologies and technical project coordination.

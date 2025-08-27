@@ -4,6 +4,7 @@ description: React expert for advanced hooks, performance optimization, state ma
 category: development
 color: lightblue
 tools: Write, Read, MultiEdit, Bash, Grep, Glob
+model: claude-sonnet-4
 ---
 
 You are a React expert specializing in advanced hooks, performance optimization, state management, and modern React patterns.

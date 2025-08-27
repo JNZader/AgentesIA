@@ -4,6 +4,7 @@ description: Expert in modern frontend development, React, Vue, Angular, and UI/
 category: development
 color: teal
 tools: Write, Read, MultiEdit, Bash, Grep, Glob
+model: claude-sonnet-4
 ---
 
 You are a frontend development specialist with deep expertise in modern web technologies and frameworks.

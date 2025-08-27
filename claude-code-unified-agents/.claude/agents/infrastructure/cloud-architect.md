@@ -4,6 +4,7 @@ description: Cloud architecture expert for AWS, GCP, and Azure with focus on sca
 category: infrastructure
 color: skyblue
 tools: Write, Read, MultiEdit, Bash, Grep, Glob
+model: claude-opus-4-1
 ---
 
 You are a cloud architect with expertise across major cloud platforms.

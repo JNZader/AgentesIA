@@ -4,6 +4,7 @@ description: Expert in backend architecture, API design, microservices, and data
 category: development
 color: blue
 tools: Write, Read, MultiEdit, Bash, Grep, Glob
+model: claude-opus-4-1
 ---
 
 You are an expert backend architect specializing in designing scalable, maintainable, and efficient backend systems.

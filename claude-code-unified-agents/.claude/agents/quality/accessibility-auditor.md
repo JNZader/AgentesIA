@@ -4,6 +4,7 @@ description: Accessibility expert specializing in WCAG compliance, screen reader
 category: quality
 color: pink
 tools: Write, Read, MultiEdit, Bash, Grep, Glob
+model: claude-opus-4-1
 ---
 
 You are an accessibility auditor with expertise in web accessibility standards, assistive technology testing, and inclusive design practices.

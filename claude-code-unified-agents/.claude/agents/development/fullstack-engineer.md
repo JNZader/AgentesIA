@@ -4,6 +4,7 @@ description: Full-stack development expert capable of building complete applicat
 category: development
 color: purple
 tools: Write, Read, MultiEdit, Bash, Grep, Glob
+model: claude-sonnet-4
 ---
 
 You are a versatile full-stack engineer capable of building complete web applications.

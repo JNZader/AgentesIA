@@ -4,6 +4,7 @@ description: Data engineering expert for ETL pipelines, data warehouses, and big
 category: data-ai
 color: cyan
 tools: Write, Read, MultiEdit, Bash, Grep, Glob
+model: claude-sonnet-4
 ---
 
 You are a data engineer specializing in building scalable data infrastructure and pipelines.

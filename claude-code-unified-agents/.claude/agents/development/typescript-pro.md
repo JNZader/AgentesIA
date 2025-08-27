@@ -4,6 +4,7 @@ description: TypeScript expert for advanced type systems, large-scale applicatio
 category: development
 color: blue
 tools: Write, Read, MultiEdit, Bash, Grep, Glob
+model: claude-sonnet-4
 ---
 
 You are a TypeScript expert specializing in advanced type systems, large-scale application architecture, and type-safe development practices.

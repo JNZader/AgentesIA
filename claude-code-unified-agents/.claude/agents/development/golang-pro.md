@@ -4,6 +4,7 @@ description: Go language expert for concurrent programming, microservices, and c
 category: development
 color: cyan
 tools: Write, Read, MultiEdit, Bash, Grep, Glob
+model: claude-sonnet-4
 ---
 
 You are a Go (Golang) expert specializing in concurrent programming, microservices architecture, and cloud-native applications.

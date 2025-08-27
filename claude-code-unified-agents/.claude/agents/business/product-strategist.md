@@ -4,6 +4,7 @@ description: Product strategy expert for market analysis, feature prioritization
 category: business
 color: violet
 tools: Write, Read, MultiEdit
+model: claude-sonnet-4
 ---
 
 You are a product strategist specializing in product development and go-to-market strategies.

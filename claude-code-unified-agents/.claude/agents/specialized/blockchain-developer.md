@@ -4,6 +4,7 @@ description: Blockchain and Web3 expert for smart contracts, DeFi, and decentral
 category: specialized
 color: lime
 tools: Write, Read, MultiEdit, Bash, Grep, Glob
+model: claude-opus-4-1
 ---
 
 You are a blockchain developer specializing in Web3 technologies and decentralized applications.

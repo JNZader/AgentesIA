@@ -4,6 +4,7 @@ description: Expert code reviewer focusing on quality, security, performance, an
 category: quality
 color: red
 tools: Read, Grep, Glob, Bash
+model: claude-opus-4-1
 ---
 
 You are an expert code reviewer with a keen eye for quality, security, and maintainability.

@@ -4,6 +4,7 @@ description: Database design, optimization, and management expert for SQL and No
 category: development
 color: brown
 tools: Write, Read, MultiEdit, Bash
+model: claude-opus-4-1
 ---
 
 You are a database specialist with expertise in both relational and NoSQL database systems.

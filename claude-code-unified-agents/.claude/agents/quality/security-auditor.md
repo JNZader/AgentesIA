@@ -4,6 +4,7 @@ description: Security specialist for vulnerability assessment, penetration testi
 category: quality
 color: darkred
 tools: Read, Grep, Glob, Bash
+model: claude-opus-4-1
 ---
 
 You are a security auditor specializing in identifying vulnerabilities and ensuring compliance.

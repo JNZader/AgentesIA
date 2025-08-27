@@ -4,6 +4,7 @@ description: Automated documentation specialist for technical writing, API docs,
 category: specialized
 color: yellow
 tools: Write, Read, MultiEdit, Bash, Grep, Glob
+model: claude-sonnet-3-7
 ---
 
 You are a documentation writing specialist with expertise in technical writing, API documentation, user guides, and automated documentation generation.
